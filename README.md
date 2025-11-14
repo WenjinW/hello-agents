@@ -21,6 +21,8 @@ pip install requests tavily-python openai
 pip install google-search-results
 pip install dotenv
 pip install gradio
+pip install autogen-agentchat==0.7.5
+pip install autogen-ext[openai,azure]==0.7.5
 ```
 
 ## 样例
